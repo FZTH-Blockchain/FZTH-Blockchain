@@ -2,29 +2,6 @@
 
 > 讓初學者也能一目瞭然的區塊鏈學習地圖。
 
-## 區塊鏈
-* 比特幣/以太坊
-* 公私鏈/聯盟鏈
-* 共識演算法
-* 軟/硬分岔
-* 三角悖論
-* 區塊鏈攻擊
-
-## 底層鏈項目
-* EOS
-* NEO
-* Nervos
-* Quorum
-
-
-## 有向無環圖
-* IPFS
-* HyperLedger
-* IOTA
-* NANO
-
-## 比特幣
-* 比太幣分岔
 
 # 以太坊 (Ethereum)
 > FZTH-Ethereum 讓初學者也能一目瞭然的以太坊學習地圖。
@@ -133,8 +110,10 @@
 * [Ledger](https://www.ledger.com)
 
 ## SDK
-* [Remix](http://remix.ethereum.org) IDE for writing Solidity Smart Contracts
-* [Truffle](https://github.com/trufflesuite/truffle) 以太坊Dapp開發工具
+* [Remix](http://remix.ethereum.org) 線上 Solidity IDE
+* [Truffle](https://github.com/trufflesuite/truffle) 以太坊 開發 Framework
+* [Embark](https://github.com/embark-framework/embark) Dapp 開發 Framework
+* [Nethereum](https://github.com/Nethereum) .NET 以太坊 Framework
 * [Cakeshop](https://github.com/jpmorganchase/cakeshop) JP Morgan 開發的以太坊可視化管理工具
 * [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) 編寫安全的以太坊合約框架
 * [Web3j](https://github.com/web3j/web3j) 以太坊官方輕量級 Java SDK
@@ -154,12 +133,11 @@
 
 ### Token
 * [Token 模型](https://vitalik.ca/general/2017/06/09/sales.html)
-* [Maker](https://makerdao.com/zh-CN/) DAI 穩定代幣
 
-### 交易所
+### 去中心化交易所
 * [Uniswap](https://uniswap.io)
 * [0x](https://0x.org/why)
-* [Augur](https://www.augur.net) 對賭議題交易所
+* [Etherex](https://github.com/etherex/etherex) 
 
 ### 借貸平台
 * [Compound](https://compound.finance)
@@ -171,7 +149,37 @@
 * [Polkadot](https://polkadot.network)
 
 ## DApps
+* [State of Dapps](https://www.stateofthedapps.com/zh) 搜尋 DApp 入口網站
+* [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) 使用 Bitcoin 和 BitTorrent 分散式網站
+* [WeiFund](https://github.com/weifund) 群眾募資平台
+* [Augur](https://github.com/AugurProject) 下賭注預測平台
+* [Etherwall](https://github.com/almindor/etherwall) GUI 以太錢包
+* [MakerDAO
+](https://github.com/MakerDAO) 穩定貨幣
 
+## 區塊鏈
+* 比特幣/以太坊
+* 公私鏈/聯盟鏈
+* 共識演算法
+* 軟/硬分岔
+* 三角悖論
+* 區塊鏈攻擊
+
+## 底層鏈項目
+* EOS
+* NEO
+* Nervos
+* Quorum
+
+
+## 有向無環圖
+* IPFS
+* HyperLedger
+* IOTA
+* NANO
+
+## 比特幣
+* 比太幣分岔
 
 ## 論文
 
