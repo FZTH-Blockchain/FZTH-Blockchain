@@ -3,10 +3,10 @@
 > 讓初學者也能一目瞭然的區塊鏈學習地圖。
 
 
-# 以太坊 (Ethereum)
+## 以太坊 (Ethereum)
 > FZTH-Ethereum 讓初學者也能一目瞭然的以太坊學習地圖。
 
-## 文件
+### 文件
 * 以太坊白皮書 [英文版](https://github.com/ethereum/wiki/wiki/White-Paper) / [繁中版](https://github.com/ChenPoWei/ethereum_whitepaper_zh)
 * 以太坊黃皮書 [英文版](https://ethereum.github.io/yellowpaper/paper.pdf)
 * 《 Mastering Ethereum 精通以太坊》 [英文版](https://github.com/ethereumbook/ethereumbook) / [繁中版](https://github.com/cypherpunks-core/ethereumbook_zh)
@@ -18,7 +18,7 @@
 * Open Zeppelin 框架 [簡中](https://zeppelin.tryblockchain.org)
 * Ethplorer 接口 [簡中](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API?from=etop)
 
-## 重大協定
+### 重大協定
 * [Olympic pre-release](https://blog.ethereum.org/2015/05/09/olympic-frontier-pre-release/)  (Testnet, Chain #0 - May 9, 2015)
 * [__Frontier__](https://blog.ethereum.org/2015/07/30/ethereum-launches/) public release (Ethereum Genesis, Chain #1 - July 30, 2015)
 * [__Homestead__](https://blog.ethereum.org/2016/02/29/homestead-release/) (Block #1,150,000 - March 14, 2016)
@@ -43,13 +43,7 @@
 	
 * [__Serenity__]() 
 
-## 共識演算法
-### 工作量證明 Proof-Of-Work, PoW
-### 權益證明 Proof-Of-Stake, PoS
-* [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
-* [Casper the Friendly Finality Gadget](https://arxiv.org/abs/1710.09437)
 
-## 科普
 ### 測試鏈
 * Olympic, per-release 測試鏈 ID #0 (被 Morden 取代)
 * Morden, Fontier-based 測試鏈 ID #2 [(被 Ropsten 取代)](https://blog.ethereum.org/2016/11/20/from-morden-to-ropsten/)
@@ -57,12 +51,12 @@
 * [Kovan](https://github.com/kovan-testnet/proposal), Proof-Of-Authority 測試鏈
 * [Rinkeby](https://www.rinkeby.io/#stats), Proof-Of-Authority ([EIP-225](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-225.md))
 
-### 水龍頭
+#### 水龍頭
 * [Ropsten Faucet](https://faucet.ropsten.be/)
 * [Kovan Faucet](https://gitter.im/kovan-testnet/faucet)
 * [Rinkeby Faucet](https://faucet.rinkeby.io/)
 
-## 學習
+### 學習
 * [Ethereum Developer Resources](https://www.ethereum.org/developers/#testing-tools) 來自以太坊官方文件
 * [以太坊學習](https://www.jianshu.com/p/220130b39e22)
 * [以太坊開發入門](https://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
@@ -78,8 +72,8 @@
 * [Truffle3.0案例教程](https://truffle.tryblockchain.org/truffle3.0-integrate-nodejs.html) 集成NodeJS并完全跑通 (附详细实例，可能的错误)
 * [以太坊開發資源](https://blog.csdn.net/wo541075754/article/category/6502432/1)
 
-## 影片
-### 年度 Ethereum 開發者大會 (Devcon)
+### 影片
+#### 年度 Ethereum 開發者大會 (Devcon)
 * [Devcon 0](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS) Berlin, 2014
 * [Devcon 1](https://www.youtube.com/watch?v=BUARih8_f68&list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk) London, 2015
 * [Devcon 2](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd) Shanghai, 2016
@@ -87,14 +81,14 @@
 * [Devcon 4](https://www.youtube.com/playlist?list=PLaM7G4Llrb7yhiaSF73D2pl6yL0cJI2OM) Prague,2018
 * [Devcon 5](https://www.youtube.com/watch?v=pB-_-WgDgCU) Osaka, 2019
 
-## 工具
+### 工具
 
-### 瀏覽器
+#### 瀏覽器
 * [Etherscan](https://etherscan.io) 以太坊區塊鏈瀏覽器
 * [Ethplorer](https://ethplorer.io) 另一以太坊區塊鏈瀏覽器
 * [Eth Gas Station](https://ethgasstation.info/index.php) Gas 價格查詢
 
-### 錢包
+#### 錢包
 > 軟體錢包
 
 * [MetaMask](https://metamask.io) Chrome Extension 瀏覽器插件
@@ -109,7 +103,7 @@
 * [Trezor](https://blog.trezor.io/trezor-integration-with-myetherwallet-3e217a652e08)
 * [Ledger](https://www.ledger.com)
 
-## SDK
+### SDK
 * [Remix](http://remix.ethereum.org) 線上 Solidity IDE
 * [Truffle](https://github.com/trufflesuite/truffle) 以太坊 開發 Framework
 * [Embark](https://github.com/embark-framework/embark) Dapp 開發 Framework
@@ -118,37 +112,45 @@
 * [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) 編寫安全的以太坊合約框架
 * [Web3j](https://github.com/web3j/web3j) 以太坊官方輕量級 Java SDK
 
-## 擴充
+### 擴充
 * [Quorum](https://github.com/jpmorganchase/quorum) 來自 JP Morgan 基於 Go-Ethereum 隱私加強
 * [BCOS](https://github.com/bcosorg/bcos) 來自微众银行的增強版以太坊
 * [Presto-Ethereum](https://github.com/xiaoyao1991/presto-ethereum) 增加 Presto SQL 的以太坊 
 
-## 社群
+### 社群
 * [Taipei Ethereum Meetup](https://medium.com/taipei-ethereum-meetup) 台北以太坊社群專欄
 * [Ethereum Reddit](https://www.reddit.com/r/ethereum/)
 * [Ethereum Stackexchange](https://ethereum.stackexchange.com)
 * [Ethereum segmentfault](https://segmentfault.com/t/以太坊/blogs)
 
-## 應用
+### 應用
 
-### Token
+#### Token
 * [Token 模型](https://vitalik.ca/general/2017/06/09/sales.html)
 
-### 去中心化交易所
+#### 去中心化交易所
 * [Uniswap](https://uniswap.io)
 * [0x](https://0x.org/why)
+* [dYdX](https://dydx.exchange/)
 * [Etherex](https://github.com/etherex/etherex) 
+* [Kyber Swap](https://kyberswap.com/swap)
+* [JOYSO](https://joyso.io/)
+* [IDEX](https://idex.market/eth/idex)
+* [EtherDelta](https://etherdelta.com/#PPT-ETH)
+* [Bithumb DEX](https://www.bithumb.io/)
+* [Binance DEX](https://www.binance.org/)
+* [List of decentralized exchanges](https://github.com/distribuyed/index)
 
-### 借貸平台
+#### 借貸平台
 * [Compound](https://compound.finance)
 * [Dharma](https://www.dharma.io)
 * [Instadapp](https://instadapp.io/dashboard/)
 
-### 跨鏈
+#### 跨鏈
 * [Cosmos](https://cosmos.network)
 * [Polkadot](https://polkadot.network)
 
-## DApps
+### DApps
 * [State of Dapps](https://www.stateofthedapps.com/zh) 搜尋 DApp 入口網站
 * [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) 使用 Bitcoin 和 BitTorrent 分散式網站
 * [WeiFund](https://github.com/weifund) 群眾募資平台
@@ -158,51 +160,53 @@
 ](https://github.com/MakerDAO) 穩定貨幣
 
 
-# 相關知識
+## 相關知識
 
 > 讓初學者也能一目瞭然的區塊鏈相關技術。
 
-## 推薦閱讀
+### 推薦閱讀
 * 《區塊鏈技術指南》[繁中](https://github.com/cypherpunks-core/blockchain_guide_zh)
 
-## 共識算法 (Consensus)
+### 共識算法 (Consensus)
 
-### Raft
+#### Raft
 * [The Raft Consensus Algorithm](https://raft.github.io/), by Diego Ongaro, Et al
 * [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/), by Ben Johnson
 * [In Search of an Understandable Consensus Algorithm (Extended Version)](https://raft.github.io/raft.pdf), by Diego Ongaro, John Ousterhout
 * [分布式系统的Raft算法](https://www.jdon.com/artichect/raft.html)
 * [Raft一致性算法](https://blog.csdn.net/cszhouwei/article/details/38374603)
 
-### Paxos
+#### Paxos
 * [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf), by Leslie Lamport
 * [分布式系统Paxos算法](https://www.jdon.com/artichect/paxos.html)
 * [Neat Algorithms - Paxos](http://harry.me/blog/2014/12/27/neat-algorithms-paxos/), by Harry Brundage
 * [The Paxos Algorithm](https://www.youtube.com/watch?v=d7nAGI_NZPk&feature=youtu.be), by Luis Quesada Torres 
 * [The Part=Time Parliament](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Part-Time-Parliament.pdf), by Leslie Lamport
 
-### 拜占庭容錯 (Byzantine Fault Tolerant, BFT)
+#### 拜占庭容錯 (Byzantine Fault Tolerant, BFT)
 * [Tangaroa: a Byzantine Fault Tolerant Raft](http://www.scs.stanford.edu/14au-cs244b/labs/projects/copeland_zhong.pdf), by Christopher Copeland, Hongxia Zhong
 * [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf), by Miguel Castro, Barbara Liskov
 
-### 工作量證明 (Proof-of-Work, PoW)
+#### 工作量證明 (Proof-of-Work, PoW)
 * 比特幣
 
-### 權益證明 (Proof-of-Stake, PoS)
+#### 權益證明 (Proof-of-Stake, PoS)
 * 以太坊
 * [A proof of stake design philosopht](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51), by Vitalik Buterin
 * [On Stake and Consensus](https://download.wpsoftware.net/bitcoin/pos.pdf), by Andrew Poelstra
 * [Cryptocurrencies without Proof of Work](https://arxiv.org/abs/1406.5694), by Iddo, Ariel Gabizon, Alex Mizrahi
 * [Belegrated proof of stake: Features and tradeoffs](https://multicoin.capital/2018/03/02/delegated-proof-stake-features-tradeoffs/), by Myles Snider
+* [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
+* [Casper the Friendly Finality Gadget](https://arxiv.org/abs/1710.09437)
 
-### 股份授權證明 (Delegated-Proof-of-Stake, DPoS)
+#### 股份授權證明 (Delegated-Proof-of-Stake, DPoS)
 *  EOS
 *  [Seeking consensus on consensus - DPoS and the Two Generals' problem](https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem), by Lan Grigg
 
-### LibraBFT
+#### LibraBFT
 * Libra
 
-### 其他
+#### 其他
 * [Consensus Compare: Casper vs. Tendermint](https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae)
 * [Consensus Compare: Tendermint BFT vs. EOS dPoS](https://blog.cosmos.network/consensus-compare-tendermint-bft-vs-eos-dpos-46c5bca7204b)
 * [The Stellar Consensus Protocol:
@@ -210,21 +214,21 @@ A Federated Model for Internet-level Consensus](https://www.stellar.org/papers/s
 * [Tendermint: Byzantine Fault Tolerance in the Age of
 Blockchains](https://allquantor.at/blockchainbib/pdf/buchman2016tendermint.pdf), by Ethan Buchman
 
-## 區塊鏈攻擊
+### 區塊鏈攻擊
 
-### Selfish Mining Attack
+#### Selfish Mining Attack
 * [Majority is not Enough: Bitcoin Mining is Vulnerable](https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf), by Ittay Eyal and Emin G ̈un Sirer
 
-### Sybil Attack
+#### Sybil Attack
 * [The Sybil Attack](https://www.microsoft.com/en-us/research/publication/the-sybil-attack/?from=http%3A%2F%2Fresearch.microsoft.com%2Fpubs%2F74220%2Fiptps2002.pdf), by John R. Douceur
 
-## 零知識證明 (Zero-Knowledge Proof)
+### 零知識證明 (Zero-Knowledge Proof)
 * [Zero Knowledge Proofs (Computerphile)](https://www.youtube.com/watch?v=HUs1bH85X9I&feature=youtu.be), by Alberto Sonnino
 * [Zero Knowledge Proofs](https://www.youtube.com/watch?v=0Sy6nb72gCk&feature=youtu.be), by Scott Twombly
 * [Introduction to zkSNARKs](https://www.youtube.com/watch?v=jr95o_k_SwI&feature=youtu.be), by Christian Reitwiessner
 * [Bulletproofs: Short Proofs for Confidential Transactions and More](https://eprint.iacr.org/2017/1066.pdf), by Benedikt Bünz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille, Greg Maxwell 
 
-## 密碼學 (Cryptography)
+### 密碼學 (Cryptography)
 * [Everything you need to know about cryptography in 1 hour](https://www.youtube.com/watch?v=jzY3m5Kv7Y8&feature=youtu.be), by Colin Percival
 * [$5 wrench attack](https://xkcd.com/538/), by Randall Munroe
 * [Communication Theory of Secrecy Systems](http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf), by Claude Elwood Shannon
@@ -236,7 +240,7 @@ Blockchains](https://allquantor.at/blockchainbib/pdf/buchman2016tendermint.pdf),
 * [End to End Encryption (E2EE) (Computerphile)](https://www.youtube.com/watch?v=jkV1KEJGKRA&feature=youtu.be), by Mike Pound
 * [Secret Key Exchange (Diffie-Hellman) (Computerphile)](https://www.youtube.com/watch?v=NmM9HA2MQGI&feature=youtu.be), by Mike Pound
 
-## 分散式計算 (Distributed Computing)
+### 分散式計算 (Distributed Computing)
 * [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 * [Perspectives on the CAP Theorem](https://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf), by Seth Gilbert, Nancy A. Lynch
 * [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying), by Jay Kreps
@@ -250,37 +254,4 @@ Blockchains](https://allquantor.at/blockchainbib/pdf/buchman2016tendermint.pdf),
 * [So, you want to trace your distributed system? Key design insights from years of practical experience](https://www.pdl.cmu.edu/PDL-FTP/SelfStar/CMU-PDL-14-102.pdf), by Raja R. Sambasivan, Rodrigo Fonseca, Ilari Shafer, Gregory R. Ganger
 * [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://ai.google/research/pubs/pub36356), by Benjamin H. Sigelman, Luiz André Barroso, Mike Burrows, Pat Stephenson, Manoj Plakal, Donald Beaver, Saul Jaspan, Chandan Shanbhag
 * [Queues Don't Fix Overload](https://ferd.ca/queues-don-t-fix-overload.html), by Fred Hebert
-
-
-## 區塊鏈
-* 比特幣/以太坊
-* 公私鏈/聯盟鏈
-* 共識演算法
-* 軟/硬分岔
-* 三角悖論
-* 區塊鏈攻擊
-
-## 底層鏈項目
-* EOS
-* NEO
-* Nervos
-* Quorum
-
-
-## 有向無環圖
-* IPFS
-* HyperLedger
-* IOTA
-* NANO
-
-## 比特幣
-* 比太幣分岔
-
-## 論文
-
-## 白皮書
-
-## 相關技術
-* 零知識證明
-* 橢圓曲線加密
 
