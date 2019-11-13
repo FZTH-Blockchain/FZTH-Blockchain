@@ -131,7 +131,15 @@
 #### 去中心化交易所
 * [Uniswap](https://uniswap.io)
 * [0x](https://0x.org/why)
+* [dYdX](https://dydx.exchange/)
 * [Etherex](https://github.com/etherex/etherex) 
+* [Kyber Swap](https://kyberswap.com/swap)
+* [JOYSO](https://joyso.io/)
+* [IDEX](https://idex.market/eth/idex)
+* [EtherDelta](https://etherdelta.com/#PPT-ETH)
+* [Bithumb DEX](https://www.bithumb.io/)
+* [Binance DEX](https://www.binance.org/)
+* [List of decentralized exchanges](https://github.com/distribuyed/index)
 
 #### 借貸平台
 * [Compound](https://compound.finance)

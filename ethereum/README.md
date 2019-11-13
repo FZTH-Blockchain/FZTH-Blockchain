@@ -38,14 +38,7 @@
 	
 * [__Serenity__]() 
 
-## 共識演算法
-### 工作量證明 Proof-Of-Work, PoW
-### 權益證明 Proof-Of-Stake, PoS
-* [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
-* [Casper the Friendly Finality Gadget](https://arxiv.org/abs/1710.09437)
-
-## 科普
-### 測試鏈
+## 測試鏈
 * Olympic, per-release 測試鏈 ID #0 (被 Morden 取代)
 * Morden, Fontier-based 測試鏈 ID #2 [(被 Ropsten 取代)](https://blog.ethereum.org/2016/11/20/from-morden-to-ropsten/)
 * Ropsten, Homestead-based 測試鏈 ID #3
@@ -132,7 +125,15 @@
 ### 去中心化交易所
 * [Uniswap](https://uniswap.io)
 * [0x](https://0x.org/why)
+* [dYdX](https://dydx.exchange/)
 * [Etherex](https://github.com/etherex/etherex) 
+* [Kyber Swap](https://kyberswap.com/swap)
+* [JOYSO](https://joyso.io/)
+* [IDEX](https://idex.market/eth/idex)
+* [EtherDelta](https://etherdelta.com/#PPT-ETH)
+* [Bithumb DEX](https://www.bithumb.io/)
+* [Binance DEX](https://www.binance.org/)
+* [List of decentralized exchanges](https://github.com/distribuyed/index)
 
 ### 借貸平台
 * [Compound](https://compound.finance)
