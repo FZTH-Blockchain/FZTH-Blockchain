@@ -118,7 +118,7 @@
 * [Presto-Ethereum](https://github.com/xiaoyao1991/presto-ethereum) 增加 Presto SQL 的以太坊 
 
 ### 社群
-* [Taipei Ethereum Meetup](https://medium.com/taipei-ethereum-meetup) 臺北以太坊社群專欄
+* [Taipei Ethereum Meetup](https://medium.com/taipei-ethereum-meetup) 台北以太坊社群專欄
 * [Ethereum Reddit](https://www.reddit.com/r/ethereum/)
 * [Ethereum Stackexchange](https://ethereum.stackexchange.com)
 * [Ethereum segmentfault](https://segmentfault.com/t/以太坊/blogs)
@@ -141,7 +141,7 @@
 * [Binance DEX](https://www.binance.org/)
 * [List of decentralized exchanges](https://github.com/distribuyed/index)
 
-#### 借貸平臺
+#### 借貸平台
 * [Compound](https://compound.finance)
 * [Dharma](https://www.dharma.io)
 * [Instadapp](https://instadapp.io/dashboard/)
@@ -153,8 +153,8 @@
 ### DApps
 * [State of Dapps](https://www.stateofthedapps.com/zh) 搜尋 DApp 入口網站
 * [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) 使用 Bitcoin 和 BitTorrent 分散式網站
-* [WeiFund](https://github.com/weifund) 群眾募資平臺
-* [Augur](https://github.com/AugurProject) 下賭注預測平臺
+* [WeiFund](https://github.com/weifund) 群眾募資平台
+* [Augur](https://github.com/AugurProject) 下賭注預測平台
 * [Etherwall](https://github.com/almindor/etherwall) GUI 以太錢包
 * [MakerDAO
 ](https://github.com/MakerDAO) 穩定貨幣
