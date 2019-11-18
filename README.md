@@ -10,13 +10,13 @@
 * 以太坊白皮書 [英文版](https://github.com/ethereum/wiki/wiki/White-Paper) / [繁中版](https://github.com/ChenPoWei/ethereum_whitepaper_zh)
 * 以太坊黃皮書 [英文版](https://ethereum.github.io/yellowpaper/paper.pdf)
 * 《 Mastering Ethereum 精通以太坊》 [英文版](https://github.com/ethereumbook/ethereumbook) / [繁中版](https://github.com/cypherpunks-core/ethereumbook_zh)
-* 《以太坊的指南针》 [簡中](http://ethbook.abyteahead.com)
+* 《以太坊的指南針》 [簡中](http://ethbook.abyteahead.com)
 * 《 Ethereum Development with Go》 [英文](https://goethereumbook.org/en/) / [簡中](https://goethereumbook.org/zh/)
-* Solidity 語言 [簡中](https://www.tryblockchain.org/Solidity-语言介绍.html)
-* Web3.js 接口 [簡中](https://web3.tryblockchain.org)
+* Solidity 語言 [簡中](https://www.tryblockchain.org/Solidity-語言介紹.html)
+* Web3.js 介面 [簡中](https://web3.tryblockchain.org)
 * Truffle 框架 [簡中](https://truffle.tryblockchain.org)
 * Open Zeppelin 框架 [簡中](https://zeppelin.tryblockchain.org)
-* Ethplorer 接口 [簡中](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API?from=etop)
+* Ethplorer 介面 [簡中](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API?from=etop)
 
 ### 重大協定
 * [Olympic pre-release](https://blog.ethereum.org/2015/05/09/olympic-frontier-pre-release/)  (Testnet, Chain #0 - May 9, 2015)
@@ -60,16 +60,16 @@
 * [Ethereum Developer Resources](https://www.ethereum.org/developers/#testing-tools) 來自以太坊官方文件
 * [以太坊學習](https://www.jianshu.com/p/220130b39e22)
 * [以太坊開發入門](https://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
-* [智能合約入門](https://ethfans.org/posts/block-chain-technology-smart-contracts-and-ethereum)
+* [智慧合約入門](https://ethfans.org/posts/block-chain-technology-smart-contracts-and-ethereum)
 * [以太坊設計原理](https://ethfans.org/posts/510)
-* [以太坊智能合约编程之菜鳥教程](https://ethfans.org/posts/101-noob-intro)
-* [Solidity 開發] (https://blog.csdn.net/ffzhihua/article/category/7735911)
-* [如何编写智能合约之一：智能合约编写、编译以及部署] (https://blog.csdn.net/yz_yangzhi/article/details/79053824)
+* [以太坊智慧合約程式設計之菜鳥教程](https://ethfans.org/posts/101-noob-intro)
+* [Solidity 開發](https://blog.csdn.net/ffzhihua/article/category/7735911)
+* [如何編寫智慧合約之一：智慧合約編寫、編譯以及部署](https://blog.csdn.net/yz_yangzhi/article/details/79053824)
 * [MAC以太坊開發環境配置](https://my.oschina.net/wtsoftware/blog/782057)
-* [Solidity校验椭圆曲线加密数字签名](https://www.toutiao.com/i6401418700217385473/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&app=news_article&utm_source=weixin&iid=8932715408&utm_medium=toutiao_ios&wxshare_count=2&pbid=35867484354)
+* [Solidity校驗橢圓曲線加密數字簽名](https://www.toutiao.com/i6401418700217385473/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&app=news_article&utm_source=weixin&iid=8932715408&utm_medium=toutiao_ios&wxshare_count=2&pbid=35867484354)
 * [ETHEREUM PET SHOP -- YOUR FIRST DAPP](https://www.trufflesuite.com/tutorials/pet-shop)
 * [BUILDING ROBUST SMART CONTRACTS WITH OPENZEPPELIN](https://www.trufflesuite.com/tutorials/robust-smart-contracts-with-openzeppelin) / [簡中版](https://zeppelin.tryblockchain.org/robust-smart-contracts-with-openzeppelin.html)
-* [Truffle3.0案例教程](https://truffle.tryblockchain.org/truffle3.0-integrate-nodejs.html) 集成NodeJS并完全跑通 (附详细实例，可能的错误)
+* [Truffle3.0案例教程](https://truffle.tryblockchain.org/truffle3.0-integrate-nodejs.html) 整合NodeJS並完全跑通 (附詳細例項，可能的錯誤)
 * [以太坊開發資源](https://blog.csdn.net/wo541075754/article/category/6502432/1)
 
 ### 影片
@@ -91,7 +91,7 @@
 #### 錢包
 > 軟體錢包
 
-* [MetaMask](https://metamask.io) Chrome Extension 瀏覽器插件
+* [MetaMask](https://metamask.io) Chrome Extension 瀏覽器外掛
 * [My Ether Wallet](https://www.myetherwallet.com) 網頁版乙太坊錢包
 * [imToken](https://token.im) 手機錢包
 * [Trust Wallet](https://trustwallet.com) 手機錢包＋交易所
@@ -108,13 +108,13 @@
 * [Truffle](https://github.com/trufflesuite/truffle) 以太坊 開發 Framework
 * [Embark](https://github.com/embark-framework/embark) Dapp 開發 Framework
 * [Nethereum](https://github.com/Nethereum) .NET 以太坊 Framework
-* [Cakeshop](https://github.com/jpmorganchase/cakeshop) JP Morgan 開發的以太坊可視化管理工具
+* [Cakeshop](https://github.com/jpmorganchase/cakeshop) JP Morgan 開發的以太坊視覺化管理工具
 * [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) 編寫安全的以太坊合約框架
 * [Web3j](https://github.com/web3j/web3j) 以太坊官方輕量級 Java SDK
 
 ### 擴充
 * [Quorum](https://github.com/jpmorganchase/quorum) 來自 JP Morgan 基於 Go-Ethereum 隱私加強
-* [BCOS](https://github.com/bcosorg/bcos) 來自微众银行的增強版以太坊
+* [BCOS](https://github.com/bcosorg/bcos) 來自微眾銀行的增強版以太坊
 * [Presto-Ethereum](https://github.com/xiaoyao1991/presto-ethereum) 增加 Presto SQL 的以太坊 
 
 ### 社群
@@ -167,18 +167,18 @@
 ### 推薦閱讀
 * 《區塊鏈技術指南》[繁中](https://github.com/cypherpunks-core/blockchain_guide_zh)
 
-### 共識算法 (Consensus)
+### 共識演算法 (Consensus)
 
 #### Raft
 * [The Raft Consensus Algorithm](https://raft.github.io/), by Diego Ongaro, Et al
 * [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/), by Ben Johnson
 * [In Search of an Understandable Consensus Algorithm (Extended Version)](https://raft.github.io/raft.pdf), by Diego Ongaro, John Ousterhout
-* [分布式系统的Raft算法](https://www.jdon.com/artichect/raft.html)
-* [Raft一致性算法](https://blog.csdn.net/cszhouwei/article/details/38374603)
+* [分散式系統的Raft演算法](https://www.jdon.com/artichect/raft.html)
+* [Raft一致性演算法](https://blog.csdn.net/cszhouwei/article/details/38374603)
 
 #### Paxos
 * [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf), by Leslie Lamport
-* [分布式系统Paxos算法](https://www.jdon.com/artichect/paxos.html)
+* [分散式系統Paxos演算法](https://www.jdon.com/artichect/paxos.html)
 * [Neat Algorithms - Paxos](http://harry.me/blog/2014/12/27/neat-algorithms-paxos/), by Harry Brundage
 * [The Paxos Algorithm](https://www.youtube.com/watch?v=d7nAGI_NZPk&feature=youtu.be), by Luis Quesada Torres 
 * [The Part=Time Parliament](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Part-Time-Parliament.pdf), by Leslie Lamport
