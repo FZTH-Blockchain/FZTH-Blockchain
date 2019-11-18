@@ -6,7 +6,7 @@
 ## 以太坊 (Ethereum)
 > FZTH-Ethereum 讓初學者也能一目瞭然的以太坊學習地圖。
 
-### 檔案
+### 文件
 * 以太坊白皮書 [英文版](https://github.com/ethereum/wiki/wiki/White-Paper) / [繁中版](https://github.com/ChenPoWei/ethereum_whitepaper_zh)
 * 以太坊黃皮書 [英文版](https://ethereum.github.io/yellowpaper/paper.pdf)
 * 《 Mastering Ethereum 精通以太坊》 [英文版](https://github.com/ethereumbook/ethereumbook) / [繁中版](https://github.com/cypherpunks-core/ethereumbook_zh)
