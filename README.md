@@ -57,7 +57,7 @@
 * [Rinkeby Faucet](https://faucet.rinkeby.io/)
 
 ### 學習
-* [Ethereum Developer Resources](https://www.ethereum.org/developers/#testing-tools) 來自以太坊官方檔案
+* [Ethereum Developer Resources](https://www.ethereum.org/developers/#testing-tools) 來自以太坊官方文件
 * [以太坊學習](https://www.jianshu.com/p/220130b39e22)
 * [以太坊開發入門](https://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
 * [智慧合約入門](https://ethfans.org/posts/block-chain-technology-smart-contracts-and-ethereum)
