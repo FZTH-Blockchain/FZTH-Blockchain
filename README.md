@@ -60,13 +60,13 @@
 * [Ethereum Developer Resources](https://www.ethereum.org/developers/#testing-tools) 來自以太坊官方文件
 * [以太坊學習](https://www.jianshu.com/p/220130b39e22)
 * [以太坊開發入門](https://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
-* [智慧合約入門](https://ethfans.org/posts/block-chain-technology-smart-contracts-and-ethereum)
+* [智能合約入門](https://ethfans.org/posts/block-chain-technology-smart-contracts-and-ethereum)
 * [以太坊設計原理](https://ethfans.org/posts/510)
-* [以太坊智慧合約程式設計之菜鳥教程](https://ethfans.org/posts/101-noob-intro)
+* [以太坊智能合約程式設計之菜鳥教程](https://ethfans.org/posts/101-noob-intro)
 * [Solidity 開發](https://blog.csdn.net/ffzhihua/article/category/7735911)
-* [如何編寫智慧合約之一：智慧合約編寫、編譯以及部署](https://blog.csdn.net/yz_yangzhi/article/details/79053824)
+* [如何編寫智能合約之一：智能合約編寫、編譯以及部署](https://blog.csdn.net/yz_yangzhi/article/details/79053824)
 * [MAC以太坊開發環境配置](https://my.oschina.net/wtsoftware/blog/782057)
-* [Solidity校驗橢圓曲線加密數字簽名](https://www.toutiao.com/i6401418700217385473/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&app=news_article&utm_source=weixin&iid=8932715408&utm_medium=toutiao_ios&wxshare_count=2&pbid=35867484354)
+* [Solidity校驗橢圓曲線數字簽名](https://www.toutiao.com/i6401418700217385473/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&app=news_article&utm_source=weixin&iid=8932715408&utm_medium=toutiao_ios&wxshare_count=2&pbid=35867484354)
 * [ETHEREUM PET SHOP -- YOUR FIRST DAPP](https://www.trufflesuite.com/tutorials/pet-shop)
 * [BUILDING ROBUST SMART CONTRACTS WITH OPENZEPPELIN](https://www.trufflesuite.com/tutorials/robust-smart-contracts-with-openzeppelin) / [簡中版](https://zeppelin.tryblockchain.org/robust-smart-contracts-with-openzeppelin.html)
 * [Truffle3.0案例教程](https://truffle.tryblockchain.org/truffle3.0-integrate-nodejs.html) 整合NodeJS並完全跑通 (附詳細例項，可能的錯誤)
@@ -91,7 +91,7 @@
 #### 錢包
 > 軟體錢包
 
-* [MetaMask](https://metamask.io) Chrome Extension 瀏覽器外掛
+* [MetaMask](https://metamask.io) Chrome Extension 瀏覽器插件
 * [My Ether Wallet](https://www.myetherwallet.com) 網頁版乙太坊錢包
 * [imToken](https://token.im) 手機錢包
 * [Trust Wallet](https://trustwallet.com) 手機錢包＋交易所
